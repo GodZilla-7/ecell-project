@@ -301,7 +301,7 @@ animation: name duration timing-function delay iteration-count direction fill-mo
 }
 @keyframes floating2 {
   0% { transform: translate(0,  0px); }
-    60%  { transform: translate(0, 15px); }
+    60%  { transform: translate(0, -15px); }
     100%   { transform: translate(0, 0px); }    
   }
 .sc1 {
